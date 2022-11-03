@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bing.com	TRUE	/	FALSE	1999999999	MUID	3103A80BC78464F918C0BA5AC656654B
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.usfoods.com	TRUE	/	FALSE	1999999999	AWSALB	oZPYau88ToXp0ISIccyGwQzjGNpWBqwVkevTdB45McrMac5qEXRW7N7MP1Jy1CpVgxrXJ5bwFPkwgPCcAyZaROMKUkkCo3MMp+JLwpwEX5YTAx0DKgKY/ALMOdtW
+www.usfoods.com	TRUE	/	FALSE	1999999999	AWSALBCORS	oZPYau88ToXp0ISIccyGwQzjGNpWBqwVkevTdB45McrMac5qEXRW7N7MP1Jy1CpVgxrXJ5bwFPkwgPCcAyZaROMKUkkCo3MMp+JLwpwEX5YTAx0DKgKY/ALMOdtW
+www.usfoods.com	TRUE	/	FALSE	1999999999	SameSite	None
+
